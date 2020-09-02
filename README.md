@@ -1,2 +1,2 @@
-# plutus
-Project Plutus is management software for printing and packaging industry powered by NodeJs.
+# NodeJS Starter Template
+A nodejs template powered by mongoose, passport (jwt), morgan+winston for personal use.
