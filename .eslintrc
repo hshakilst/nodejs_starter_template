@@ -1,0 +1,21 @@
+{
+  "extends": "eslint-recommended",
+  "env": {
+    "es6": true,
+    "node": true,
+    "browser": true
+  },
+  "rules": {
+    "strict": "error",
+    "semi": "off",
+    "comma-dangle": ["error", "always-multiline"],
+    "comma-style": ["error", "always"],
+    "no-multi-spaces": "error",
+    "block-spacing": "error",
+    "padded-blocks": "error"
+  },
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  }
+}
