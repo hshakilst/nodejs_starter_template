@@ -1,7 +1,8 @@
 const express = require('express');
-const router = express.Router();
 const appRoot = require('app-root-path');
+const jwt = require('jsonwebtoken');
 const User = require(appRoot + '/models/user');
+const router = express.Router();
 
 apiRoutes.post('/authenticate', function (req, res) {
     User.findOne({
