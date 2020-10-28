@@ -1,27 +1,22 @@
 {
-  "name": "plutus",
+  "name": "",
   "version": "1.0.0",
-  "description": "A management solution for printing & packaging industry",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "nodemon ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hshakilst/plutus.git"
+    "url": ""
   },
-  "keywords": [
-    "inventory",
-    "stock",
-    "accounts",
-    "salary"
-  ],
-  "author": "Shakil Hossain & Shagoto Bhakat",
+  "keywords": [],
+  "author": "Shakil Hossain",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/hshakilst/plutus/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/hshakilst/plutus#readme",
+  "homepage": "",
   "dependencies": {
     "app-root-path": "^2.1.0",
     "bcrypt": "^3.0.4",
